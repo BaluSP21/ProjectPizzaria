@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Sedgwick+Ave+Display&display=swap');
+
+.cabecalho {
+    
+    color: red;
+    margin: 0px;
+    border: 1px solid;
+    border-color: black;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.logo {
+    max-width: 120px;
+    height: auto;
+    margin-left: 20px;
+}
+
+.titulo {
+    font-family: 'Dancing Script', cursive;
+    font-size: 34px;
+}
+
+.frase {
+    font-family: 'Dancing Script', cursive;
+    font-size: 28px;
+    margin: 5px;
+}
+
+.aviso {
+    margin: 10px;
+    color: #fdf9ef;
+}
+
+.intro {
+    font-size: 1.5rem;
+}
+
+.options {
+    border: 1px solid;
+    margin: 50px;
+    padding: 10px;
+    
+}
+
+.options-2 {
+    font-size: 3rem;
+    text-align: center;
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+.options-3 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image-container {
+    margin: 10px;
+    text-align: center;
+}
+
+.image-container img {
+    width: 500px;
+    height: 500px;
+}
+
+.preco {
+    font-family: 'Lobster', sans-serif;
+    font-size: 2rem;
+    color: red;
+}
+
+.button {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+body {
+
+    
+ 
+
+}
+main {
+    background-image: url('IMG/fundo.png');
+    margin-top: 20px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+footer {
+    color: red;
+    background-color: #fdf9ef;
+    margin-top: 20px ;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+p {
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-right: 30px;
+}
+
